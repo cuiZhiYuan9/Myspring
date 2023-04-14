@@ -1,6 +1,5 @@
 package com.cui.Thread01;
 
-import cpm.cui.Thread01.ThreadTest01;
 import org.junit.Test;
 
 public class ThreadTest {

@@ -1,4 +1,4 @@
-package cpm.cui.Thread01;
+package com.cui.Thread01;
 
 public class ThreadTest01 extends Thread {
     @Override
