@@ -19,4 +19,9 @@ public class ThreadTest {
         ThreadTest01 threadTest01 = new ThreadTest01();
 
     }
+    
+    @Test
+    public void test05(){
+        Object o = new Object();
+    }
 }
