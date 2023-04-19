@@ -1,12 +1,11 @@
-package com.cui.dubboAPI.impl;
+package com.cui.dubboimpl;
 
-import com.cui.pojo.insuredPojo;
 import com.cui.dubboAPI.MessageDeal;
+import com.cui.pojo.insuredPojo;
 
 import java.util.Map;
 
 public class MessageDealimpl implements MessageDeal {
-    @Override
     public String service(Map<String, Object> map) {
         insuredPojo data = null;
         try {
@@ -17,7 +16,7 @@ public class MessageDealimpl implements MessageDeal {
             new Throwable("这里有问题");
 
         }
-        String name1 = data.getName1();
+        String name1 = data.getName();
         System.out.println("name1 = " + name1);
         return data.toString();
     }

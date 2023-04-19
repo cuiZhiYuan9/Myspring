@@ -4,21 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="juc">
-      <change afterPath="$PROJECT_DIR$/IOmodule/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/ResultBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/m3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/JsonAPI/stepsBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread2/SyncObjectOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Thread01/Json/json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Thread01/Json/test.java" afterDir="false" />
+    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DubboAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOmodule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/M1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/ResultBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO$StepsDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$CommpojoDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$InsuredPojoDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/stepsBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/Thread2/SyncObjectOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/Json/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/abstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/pojo/Apllication/customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/Application/application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboProvider/target/classes/com/cui/pojo/bnfPojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboProvider/target/classes/com/cui/pojo/insuredPojo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/JUC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Thread01/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Thread01/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/dubboAPI/MessageDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/DubboAPI/src/main/java/com/cui/dubboAPI/MessageDeal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/test/java/com/cui/testdubbo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/test/java/com/cui/testdubbo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/dubboAPI/MessageDeal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboProvider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboAPI/MessageDeal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboAPI/impl/MessageDealimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/resources/dubboprovider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/resources/dubboprovider.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,23 +81,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/hutool-v5-master",
+    "last_opened_file_path": "D:/Myspring/dubboProvider/src/main/java/com/cui",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15136719",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "ce281b75abf94634b89f9520ebe01c61"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Myspring\dubboProvider\src\main\java\com\cui" />
       <recent name="D:\Myspring\JUC\src\main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cui.dubboimpl" />
+      <recent name="com.cui" />
+      <recent name="com.cui.dubboAPI" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SyncObjectOver">
+  <component name="RunManager" selected="Application.customer">
     <configuration name="SyncObjectOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.Thread2.SyncObjectOver" />
       <module name="JUC" />
@@ -85,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread2.Thread03" />
-      <module name="JUC" />
+    <configuration name="application01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Application.application01" />
+      <module name="dubboProvider" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Thread2.*" />
+          <option name="PATTERN" value="com.cui.Application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,48 +133,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
+    <configuration name="customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.pojo.Apllication.customer" />
+      <module name="dubboCustomer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Thread01.*" />
+          <option name="PATTERN" value="com.cui.pojo.Apllication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cui.Thread01" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread01.ThreadTest" />
-      <option name="METHOD_NAME" value="test05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testdubbo.Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubboCustomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cui" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.testdubbo" />
+      <option name="METHOD_NAME" value="Test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
+    <configuration name="testdubbo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubboCustomer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Thread01.Json.*" />
+          <option name="PATTERN" value="com.cui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cui.Thread01.Json" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread01.Json.test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Thread01.Json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cui.Thread01.Json" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread01.Json.test" />
+      <option name="PACKAGE_NAME" value="com.cui" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.testdubbo" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -148,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.customer" />
+        <item itemvalue="JUnit.testdubbo.Test02" />
+        <item itemvalue="Application.application01" />
+        <item itemvalue="JUnit.testdubbo.test01" />
         <item itemvalue="Application.SyncObjectOver" />
-        <item itemvalue="JUnit.ThreadTest.test05" />
-        <item itemvalue="JUnit.test.test01" />
-        <item itemvalue="JUnit.test.test" />
-        <item itemvalue="Application.Thread03" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +200,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681457435790</updated>
       <workItem from="1681457438375" duration="2779000" />
-      <workItem from="1681735986963" duration="6389000" />
+      <workItem from="1681735986963" duration="8412000" />
+      <workItem from="1681912301734" duration="4980000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1681661224029</created>
@@ -184,11 +217,36 @@
       <option name="project" value="LOCAL" />
       <updated>1681731247575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="juc">
+      <created>1681908170357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681908170357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="juc">
+      <created>1681908534509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681908534509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="juc" />
@@ -221,6 +279,16 @@
           <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread2/Sychronized01.java</url>
           <line>33</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubboCustomer/src/test/java/com/cui/testdubbo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/pojo/Apllication/customer.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />

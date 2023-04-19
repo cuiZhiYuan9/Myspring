@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/IOmodule/target/classes" />
+    <output-test url="file://$MODULE_DIR$/IOmodule/target/test-classes" />
+    <content url="file://$MODULE_DIR$/IOmodule">
+      <sourceFolder url="file://$MODULE_DIR$/IOmodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IOmodule/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/IOmodule/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/IOmodule/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:2.0.25" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.fastjson2:fastjson2-extension:2.0.25" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.fastjson2:fastjson2:2.0.25" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.22" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.8.16" level="project" />
+  </component>
+</module>
