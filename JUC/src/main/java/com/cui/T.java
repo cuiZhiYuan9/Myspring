@@ -36,6 +36,11 @@ public class T {
         ArrayList<Object> objects = new ArrayList<>();
         for (int i = 0; i < 1000; i++) {
             new Thread(()->{
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 objects.add(Thread.currentThread().getName());
                 System.out.println(Thread.currentThread().getName());
             }).start();

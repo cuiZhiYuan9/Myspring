@@ -1,23 +1,30 @@
 package com.cui.dubboimpl;
 
+import com.alibaba.fastjson.JSON;
 import com.cui.dubboAPI.MessageDeal;
 import com.cui.pojo.insuredPojo;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class MessageDealimpl implements MessageDeal {
-    public String service(Map<String, Object> map) {
-        insuredPojo data = null;
-        try {
-             data = (insuredPojo) map.get("data");
+    public String service(HashMap json) {
+        String name = "崔志远";
+       /* try {
+             *//*data = (insuredPojo) map.get("data");*//*
+    *//*        String s = JSON.toJSONString(json);*//*
+            HashMap map = JSON.parseObject(json, HashMap.class);
+            Object data1 =  map.get("data");
+            System.out.println(data1);
+
+            insuredPojo insuredPojo = JSON.toJavaObject((JSON) data1, insuredPojo.class);
+             name = insuredPojo.getName();
+
 
         }catch (Exception e){
-            System.out.println(data);
             new Throwable("这里有问题");
 
-        }
-        String name1 = data.getName();
-        System.out.println("name1 = " + name1);
-        return data.toString();
+        }*/
+        return name;
     }
 }

@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-@NoArgsConstructor
-@Data
+
 public class m3 {
 
     @JSONField(name = "Commpojo")

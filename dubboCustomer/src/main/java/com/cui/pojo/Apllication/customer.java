@@ -1,10 +1,12 @@
 package com.cui.pojo.Apllication;
 
+import com.alibaba.fastjson.JSON;
 import com.cui.dubboAPI.MessageDeal;
 import com.cui.pojo.bnfPojo;
 import com.cui.pojo.insuredPojo;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.lang.reflect.Modifier;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -25,7 +27,11 @@ public class customer {
         insuredPojo.setBnflist(bnfpojolist);
         HashMap<String, Object> hashMap = new HashMap<>();
         hashMap.put("data",insuredPojo);
+     //   String s = JSON.toJSONString(hashMap);
+     /*   String s = JSON.toJSONString(hashMap);*/
         String service = bean.service(hashMap);
+
+
         System.out.println(service);
     }
 }

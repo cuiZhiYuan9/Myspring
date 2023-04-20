@@ -11,6 +11,7 @@ public class insuredPojo {
     @JSONField(alternateNames = "name" )
     private String name;
     private String sex;
+    @JSONField(alternateNames = "bnflist")
     private List<bnfPojo> bnfPojoList;
 
 }

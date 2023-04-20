@@ -11,11 +11,17 @@
 
     <artifactId>JUC</artifactId>
     <dependencies>
-        <dependency>
+     <!--   <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
             <version>5.8.16</version>
             <scope>test</scope>
+        </dependency>-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>

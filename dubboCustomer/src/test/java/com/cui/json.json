@@ -1,0 +1,14 @@
+{
+  "Res": [
+    {//claimCheckResult ---pojo名
+      //案件id
+      "id": "",
+      //事件id
+      "accoutId": "",
+      //校验信息
+      "errorMessage": "",
+      //被校验时存值为0
+      "successFlag": ""
+    }
+  ]
+}

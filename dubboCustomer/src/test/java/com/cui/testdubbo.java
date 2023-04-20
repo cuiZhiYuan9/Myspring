@@ -46,7 +46,7 @@ public class testdubbo {
     }
     @Test
     public void Test02(){
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("dubbocustomer.xml");
+ /*       ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("dubbocustomer.xml");
         context.start();
         System.out.println("customer start");
         MessageDeal bean = context.getBean(MessageDeal.class);
@@ -61,8 +61,11 @@ public class testdubbo {
         insuredPojo.setBnflist(bnfpojolist);
         HashMap<String, Object> hashMap = new HashMap<>();
         hashMap.put("data",insuredPojo);
-        String service = bean.service(hashMap);
-        System.out.println(service);
+        String s = hashMap.toString();
+        System.out.println(s);
+
+        String service = bean.service(s);
+        System.out.println(service);*/
 
     }
 }
