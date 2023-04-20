@@ -3,49 +3,33 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOmodule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/M1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/ResultBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO$StepsDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$CommpojoDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$InsuredPojoDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/stepsBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/Thread2/SyncObjectOver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/Json/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/abstractTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/pojo/Apllication/customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/Application/application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubboProvider/target/classes/com/cui/pojo/bnfPojo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubboProvider/target/classes/com/cui/pojo/insuredPojo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Myspring1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/JUC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/dubboAPI/MessageDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/DubboAPI/src/main/java/com/cui/dubboAPI/MessageDeal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/test/java/com/cui/testdubbo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/test/java/com/cui/testdubbo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/dubboAPI/MessageDeal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboProvider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboAPI/MessageDeal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboAPI/impl/MessageDealimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/resources/dubboprovider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/resources/dubboprovider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/Application/application01.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/Application/application01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,22 +63,9 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/Myspring/dubboProvider/src/main/java/com/cui",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15136719",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "spring.configuration.checksum": "ce281b75abf94634b89f9520ebe01c61"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myspring\dubboProvider\src\main\java\com\cui" />
@@ -106,7 +77,7 @@
       <recent name="com.cui.dubboAPI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.customer">
+  <component name="RunManager" selected="Application.application01">
     <configuration name="SyncObjectOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.Thread2.SyncObjectOver" />
       <module name="JUC" />
@@ -180,15 +151,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.application01" />
         <item itemvalue="Application.customer" />
         <item itemvalue="JUnit.testdubbo.Test02" />
-        <item itemvalue="Application.application01" />
         <item itemvalue="JUnit.testdubbo.test01" />
         <item itemvalue="Application.SyncObjectOver" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -247,6 +218,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="juc" />
@@ -298,7 +270,7 @@
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
-        <PinnedItemInfo parentTag="com.cui.Thread2.Sychronized01$1" memberName="l1" />
+        <PinnedItemInfo />
       </pinned-members>
     </pin-to-top-manager>
   </component>

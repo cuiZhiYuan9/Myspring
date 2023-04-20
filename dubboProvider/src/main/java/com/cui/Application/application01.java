@@ -11,6 +11,7 @@ public class application01 {
         System.out.println(context.getDisplayName()+":here");
         context.start();
         System.out.println("服务已经启动");
+        System.out.println("11111");
         System.in.read();
     }
 }
