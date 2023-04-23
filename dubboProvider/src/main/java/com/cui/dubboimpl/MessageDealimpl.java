@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MessageDealimpl implements MessageDeal {
-    public String service(HashMap json) {
-        String name = "崔志远";
+    public String service(String json) {
+        System.out.println(json);
        /* try {
              *//*data = (insuredPojo) map.get("data");*//*
     *//*        String s = JSON.toJSONString(json);*//*
@@ -25,6 +25,6 @@ public class MessageDealimpl implements MessageDeal {
             new Throwable("这里有问题");
 
         }*/
-        return name;
+            return json;
     }
 }

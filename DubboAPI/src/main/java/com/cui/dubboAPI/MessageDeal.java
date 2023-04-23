@@ -6,5 +6,5 @@ import java.util.HashMap;
 import java.util.Map;
 
 public interface MessageDeal {
-    String service(HashMap json);
+    String service(String json);
 }

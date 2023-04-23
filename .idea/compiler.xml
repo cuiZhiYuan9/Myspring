@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DubboAPI" />
-        <module name="JUC" />
         <module name="dubboCustomer" />
-        <module name="dubboProvider" />
         <module name="IOmodule" />
+        <module name="DubboAPI" />
+        <module name="dubboProvider" />
+        <module name="JUC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
