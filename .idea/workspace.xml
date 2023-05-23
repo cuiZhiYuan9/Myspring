@@ -23,15 +23,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="4/20">
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread04/AtomicPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread04/LockSyn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread04/NosynTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/pojo/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/thread08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/threadtype/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Day08/test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/pojo/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/M1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/ResultBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO$StepsDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$CommpojoDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$InsuredPojoDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/stepsBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/Thread2/SyncObjectOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/Json/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/abstractTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DubboAPI/src/main/java/com/cui/dubboAPI/MessageDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/DubboAPI/src/main/java/com/cui/dubboAPI/MessageDeal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/pojo/Apllication/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/main/java/com/cui/pojo/Apllication/customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboCustomer/src/main/resources/spring/dubbocustomer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/pojo/bnfPojo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/pojo/insuredPojo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,88 +84,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15722656" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15136719",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "042190030c27b9e6aa5397c2ee2249b7"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myspring\dubboProvider\src\main\java\com\cui" />
       <recent name="D:\Myspring\JUC\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cui.Day08.pojo" />
       <recent name="com.cui.dubboimpl" />
       <recent name="com.cui" />
       <recent name="com.cui.dubboAPI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NosynTest">
-    <configuration name="AtomicPojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread04.AtomicPojo" />
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Thread04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NosynTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread04.NosynTest" />
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Thread04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="application01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Application.application01" />
-      <module name="dubboProvider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.pojo.Apllication.customer" />
-      <module name="dubboCustomer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.pojo.Apllication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.thread08">
     <configuration name="testm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.Thread03.testm1" />
       <module name="JUC" />
@@ -162,17 +120,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thread08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.thread08" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abstractTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cui" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.abstractTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test08.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cui.Day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.test08" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test08.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cui.Day08" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.test08" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NosynTest" />
-        <item itemvalue="Application.customer" />
-        <item itemvalue="Application.application01" />
-        <item itemvalue="Application.AtomicPojo" />
+        <item itemvalue="Application.thread08" />
         <item itemvalue="Application.testm1" />
+        <item itemvalue="JUnit.test08.test02" />
+        <item itemvalue="JUnit.test08.test01" />
+        <item itemvalue="JUnit.abstractTest.test01" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -187,6 +206,9 @@
       <workItem from="1681735986963" duration="8412000" />
       <workItem from="1681912301734" duration="4980000" />
       <workItem from="1682212642878" duration="16629000" />
+      <workItem from="1683639472487" duration="1250000" />
+      <workItem from="1684853210575" duration="1354000" />
+      <workItem from="1684854590092" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1681661224029</created>
@@ -234,7 +256,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -246,86 +268,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="juc" />
     <MESSAGE value="4/20" />
     <option name="LAST_COMMIT_MESSAGE" value="4/20" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1682215504529">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1682215504529" />
-    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1682043355475">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1682043355475" />
-    <state width="1011" height="466" key="DebuggerActiveHint" timestamp="1682043324722">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1011" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1682043324722" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1681974540251">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1681974540251" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1682239147979">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1682239147979" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1682239147979">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1682239147979" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1682239147978">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1682239147978" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1682239147979">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1682239147979" />
-    <state width="1493" height="312" key="GridCell.Tab.1.bottom" timestamp="1682231879236">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="312" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1682231879236" />
-    <state width="1493" height="312" key="GridCell.Tab.1.center" timestamp="1682231879236">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="312" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1682231879236" />
-    <state width="1493" height="312" key="GridCell.Tab.1.left" timestamp="1682231879236">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="312" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1682231879236" />
-    <state width="1493" height="312" key="GridCell.Tab.1.right" timestamp="1682231879236">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="312" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1682231879236" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1682232161229">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1682232161229" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1681980674194">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1681980674194" />
-    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1682043118206">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1682043118206" />
-    <state x="284" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1682216891029">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="284" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1682216891029" />
-    <state x="467" y="146" width="602" height="532" key="find.popup" timestamp="1682236211651">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="467" y="146" width="602" height="532" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1682236211651" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1682239060199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1682239060199" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -364,11 +311,6 @@
           <url>file://$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java</url>
           <line>19</line>
           <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Thread03/M4.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/dubboProvider/src/main/java/com/cui/dubboimpl/MessageDealimpl.java</url>
@@ -439,10 +381,12 @@
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
-        <PinnedItemInfo typeName="com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcInvocation" fieldName="request" />
         <PinnedItemInfo />
-        <PinnedItemInfo typeName="com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcInvocation" fieldName="channel" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
