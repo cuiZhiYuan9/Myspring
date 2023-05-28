@@ -22,34 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="4/20">
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/pojo/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/thread08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day08/threadtype/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Day08/test08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/pojo/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/M1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/ResultBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO$StepsDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO$DataDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03$ResultDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$CommpojoDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3$InsuredPojoDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/m3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/JsonAPI/stepsBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/classes/com/cui/Thread2/SyncObjectOver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/Json/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/Thread01/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/target/test-classes/com/cui/abstractTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestRunable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/pojo/bnfPojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/classes/com/cui/pojo/insuredPojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubboCustomer/target/test-classes/com/cui/testdubbo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,16 +64,16 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15136719",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "042190030c27b9e6aa5397c2ee2249b7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15136719&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;042190030c27b9e6aa5397c2ee2249b7&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myspring\dubboProvider\src\main\java\com\cui" />
@@ -106,13 +86,52 @@
       <recent name="com.cui.dubboAPI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.thread08">
-    <configuration name="testm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Thread03.testm1" />
+  <component name="RunManager" selected="Application.TestStatic01">
+    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.M2" />
       <module name="JUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Thread03.*" />
+          <option name="PATTERN" value="com.cui.Day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.TestRunable" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.TestStatic" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStatic01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.TestStatic01" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,61 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstractTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cui" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.abstractTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test08.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cui.Day08" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.test08" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test08.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cui.Day08" />
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.test08" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStatic01" />
+        <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.TestRunable" />
+        <item itemvalue="Application.M2" />
         <item itemvalue="Application.thread08" />
-        <item itemvalue="Application.testm1" />
-        <item itemvalue="JUnit.test08.test02" />
-        <item itemvalue="JUnit.test08.test01" />
-        <item itemvalue="JUnit.abstractTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +179,9 @@
       <workItem from="1682212642878" duration="16629000" />
       <workItem from="1683639472487" duration="1250000" />
       <workItem from="1684853210575" duration="1354000" />
-      <workItem from="1684854590092" duration="3423000" />
+      <workItem from="1684854590092" duration="3770000" />
+      <workItem from="1684941206535" duration="2392000" />
+      <workItem from="1685199042163" duration="8666000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1681661224029</created>
@@ -252,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681980599482</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4/20">
+      <created>1684859538649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684859538650</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +347,16 @@
           <line>81</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />
           <option name="timeStamp" value="6" />
@@ -374,8 +364,17 @@
         <line-breakpoint type="java-method">
           <url>jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar!/sun/misc/Unsafe.class</url>
           <line>305</line>
-          <properties class="sun.misc.Unsafe" method="compareAndSwapInt" />
+          <properties class="sun.misc.Unsafe" />
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable01.java</url>
+          <line>18</line>
+          <properties class="com.cui.Day09.Runable01" method="setDownLatch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
