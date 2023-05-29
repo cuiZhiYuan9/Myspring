@@ -22,14 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/Runable02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic01.java" afterDir="false" />
+    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="4/20">
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/D10_00_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/TestRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,7 +84,20 @@
       <recent name="com.cui.dubboAPI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStatic01">
+  <component name="RunManager" selected="Application.D10_00_question">
+    <configuration name="D10_00_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day10.D10_00_question" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.Day09.M2" />
       <module name="JUC" />
@@ -139,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.thread08" />
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestStatic01" />
+        <item itemvalue="Application.D10_00_question" />
         <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.TestStatic01" />
         <item itemvalue="Application.TestRunable" />
         <item itemvalue="Application.M2" />
-        <item itemvalue="Application.thread08" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +180,7 @@
       <workItem from="1684854590092" duration="3770000" />
       <workItem from="1684941206535" duration="2392000" />
       <workItem from="1685199042163" duration="8666000" />
+      <workItem from="1685274366616" duration="6080000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1681661224029</created>
@@ -232,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684859538650</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="4/20">
+      <created>1685274386288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685274386288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

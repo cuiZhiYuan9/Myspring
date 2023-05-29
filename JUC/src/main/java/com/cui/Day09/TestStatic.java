@@ -29,16 +29,17 @@ public class TestStatic {
 
     public static void main(String[] args) {
 
-        pub("11");
-        pub("@2");
+/*        pub("11");
+        pub("@2");*/
        /* System.out.println("pub(\"1234\") = " + pub("1234"));
         System.out.println("pub(\"2346\") = " + pub("2346"));*/
      /*   for (int i = 0; i < 100; i++) {
             new Thread02(5).start();
         }*/
-    /*    for (int i = 0; i < 100; i++) {
-            new Thread(new Thread01(5)).start();
-        }*/
+        Thread01 thread01 = new Thread01(5);
+        for (int i = 0; i < 100; i++) {
+            new Thread(thread01).start();
+        }
       /*  Thread03 thread03 = new Thread03();
         for (int i = 0; i < 10000; i++) {
             new Thread(thread03::M1).start();
