@@ -22,11 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="4/20">
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/D10_00_question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/TestRunnable.java" afterDir="false" />
+    <list default="true" id="643e3d21-93b9-4bfd-af17-6347c370eaab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/D10_01_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day11/Enum_test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day11/Enum_test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day12/LockDebug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/com/cui/Day08/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeAndalgo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeAndalgo/src/test/java/com/cui/Day01/Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/D10_00_question.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/main/java/com/cui/Day10/D10_00_question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="Enum" />
+        <option value="JUnit3 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,20 +71,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15136719&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;042190030c27b9e6aa5397c2ee2249b7&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15136719",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "042190030c27b9e6aa5397c2ee2249b7"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myspring\dubboProvider\src\main\java\com\cui" />
       <recent name="D:\Myspring\JUC\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cui.Day11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.cui.Day08.pojo" />
@@ -84,7 +102,7 @@
       <recent name="com.cui.dubboAPI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D10_00_question">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="D10_00_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.Day10.D10_00_question" />
       <module name="JUC" />
@@ -98,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.M2" />
+    <configuration name="D10_01_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day10.D10_01_question" />
       <module name="JUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Day09.*" />
+          <option name="PATTERN" value="com.cui.Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +129,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.TestRunable" />
+    <configuration name="LockDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day12.LockDebug" />
       <module name="JUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.Day09.*" />
+          <option name="PATTERN" value="com.cui.Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.Day08.Solution" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.Day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,26 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStatic01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.Day09.TestStatic01" />
-      <module name="JUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.Day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.LockDebug" />
+        <item itemvalue="Application.D10_01_question" />
         <item itemvalue="Application.D10_00_question" />
         <item itemvalue="Application.TestStatic" />
-        <item itemvalue="Application.TestStatic01" />
-        <item itemvalue="Application.TestRunable" />
-        <item itemvalue="Application.M2" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +198,8 @@
       <workItem from="1684854590092" duration="3770000" />
       <workItem from="1684941206535" duration="2392000" />
       <workItem from="1685199042163" duration="8666000" />
-      <workItem from="1685274366616" duration="6080000" />
+      <workItem from="1685274366616" duration="14937000" />
+      <workItem from="1685862678271" duration="6334000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1681661224029</created>
@@ -238,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685274386288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4/20">
+      <created>1685320975372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685320975372</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +388,26 @@
           <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Day09/TestStatic.java</url>
           <line>31</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JUC/src/main/java/com/cui/Day12/LockDebug.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../jdk1.8.0_291/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>284</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JUC/src/test/java/com/cui/Day08/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JUC/src/test/java/com/cui/Day08/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />

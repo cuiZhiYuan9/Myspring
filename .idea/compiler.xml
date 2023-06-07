@@ -12,6 +12,7 @@
         <module name="JUC" />
         <module name="dubboCustomer" />
         <module name="dubboProvider" />
+        <module name="LeetCodeAndalgo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

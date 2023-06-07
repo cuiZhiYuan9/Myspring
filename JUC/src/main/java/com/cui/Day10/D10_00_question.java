@@ -39,14 +39,7 @@ public static void main(String[] args) {
     thread01 = new Thread(()->{
         for (int i = 0; i < Arr1.length; i++) {
             System.out.println(Arr1[i]);
-          //  thread01.notifyAll();
 
-            try {
-                thread01.wait();
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-            thread01.notify();
             //  Thread.yield();
         }
     });

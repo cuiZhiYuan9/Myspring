@@ -14,6 +14,7 @@
         <module>dubboCustomer</module>
         <module>dubboProvider</module>
         <module>DubboAPI</module>
+        <module>LeetCodeAndalgo</module>
     </modules>
 
     <dependencies>
