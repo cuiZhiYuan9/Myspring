@@ -8,7 +8,7 @@ package com.cui.Day01;
 */
 public class Question_2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode head = null;
+      /*  ListNode head = null;
         ListNode tail = new ListNode();
         int carry = 0;
         while (l1 != null || l2 != null) {
@@ -30,6 +30,27 @@ public class Question_2 {
             tail.next=new ListNode(carry);
         }
         return head;
+*/
+
+       return add( l1,  l2,0);
+    }
+    public ListNode add(ListNode l1, ListNode l2,int carry){
+        if(l1==null && l2==null && carry==0){
+            return null;
+        }
+        int val = 0;
+        int val1 =0;
+        if(l1!=null){
+            val = l1.val;
+            l1= l1.next;
+        }
+        if(l2!=null){
+            val1 = l2.val;
+            l2=l2.next;
+        }
+        ListNode listNode = new ListNode(val + val1 + carry % 10);
+        listNode.next = add(l1,l2, val+val1+carry/10);
+        return listNode;
 
     }
 
